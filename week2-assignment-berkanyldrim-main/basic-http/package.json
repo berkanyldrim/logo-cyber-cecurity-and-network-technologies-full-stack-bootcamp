@@ -1,0 +1,13 @@
+{
+  "name": "basic-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "methods.js",
+  "scripts": {
+    "start": "node methods"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
